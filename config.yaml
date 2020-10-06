@@ -2,5 +2,5 @@ module:
   imports:
     - path: github.com/hakimel/reveal.js
       mounts:
-        source: dist
+        source: .
         target: assets/mod/revealjs
